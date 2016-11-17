@@ -1,6 +1,7 @@
-// デモ用Javascript
+﻿// デモ用Javascript
 
 function httpGet(url) {
+  //console.log("listLots");
   //console.log("listLots");
   var ret = "";
   $.ajax({
